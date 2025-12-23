@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Rynnsza">Ahmad Ambari</a></h1>
 <h3 align="center">A Passionate Web Developer from Sukosari, Bondowoso, Jawa Timur, Indonesia</h3>
-<img align="right" width="400" src="https://bayanbox.ir/view/1353559592827697052/programmer.gif">
 
-- 🔭 I’m currently working on **PP Nurul Jadid**
+
+- 🔭 Informatic Engineering Student at **Nurul Jadid University**
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react, vue, laravel, and django**
+- 💬 Ask me about **react,laravel, and next js**
 
-- 📫 How to reach me **ahmadambari044@gmail.com*
+- 📫 How to reach me **ahmadambari044@gmail.com**
 
 - WhatsApp or Mobile Phone Number **+62-812-9271-1935**
 
@@ -32,22 +32,19 @@
 &nbsp;
 
 ## Languages and Tools
-<p align="center"> <a href="https://github.com/Rynnsza"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,express,bots,nodejs,laravel,django,bootstrap"></a></p>
-<p align="center"> <a href="https://github.com/Rynnsza"><img src="https://skillicons.dev/icons?i=elixir,tailwind,php,mysql,replit,vue,react,postgresql"></a></p>
+<p align="center"> <a href="https://github.com/Rynnsza"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,nodejs,laravel,bootstrap"></a></p>
+<p align="center"> <a href="https://github.com/Rynnsza"><img src="https://skillicons.dev/icons?i=elixir,tailwind,php,mysql,react,"></a></p>
 
 
-## My Stats:
-<div align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rynnsza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rynnsza&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rynnsza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rynnsza&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rynnsza&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
-    </td>
-  </tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rynnsza&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Rynnsza&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
