@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Rynnsza">Ahmad Ambari</a></h1>
-<h3 align="center">A Passionate Web Developer from Sukosari, Bondowoso, Jawa Timur, Indonesia</h3>
+<h3 align="center">A Passionate Web Developer from Bondowoso, Jawa Timur, Indonesia</h3>
 
 
 - 🔭 Informatic Engineering Student at **Nurul Jadid University**
