@@ -1,50 +1,38 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Rynnsza">Ahmad Ambari</a></h1>
-<h3 align="center">A Passionate Web Developer from Bondowoso, Jawa Timur, Indonesia</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42b883&center=true&width=500&lines=Hi+there,+I'm+Ahmad Ambari+👋;Full+Stack+Website+Developer;Building+Designer;Always+building+something+cool" alt="Typing SVG" />
+</div>
 
+<br/>
 
-- 🔭 Informatic Engineering Student at **Nurul Jadid University**
+<div align="center">
+  <a href="https://www.ryzr.my.id/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **React Native**
+<br/>
 
-- 💬 Ask me about **react,laravel, and next js**
+### 🛠️ Tech Stack
 
-- 📫 How to reach me **ahmadambari044@gmail.com**
+<div align="center">
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <br/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</div>
 
-- WhatsApp or Mobile Phone Number **+62-812-9271-1935**
+<br/>
 
-- ⚡ Fun fact **No Game No Life**
+### 📊 GitHub Stats
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="margin-bottom: 50px">
-<a href="https://linkedin.com/in/ahmad-ambari-1b9bb8287" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://instagram.com/ahmdabri_/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmdabri_" height="30" width="40" />
-</a>
-<a href="https://wa.me/6281292711935" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
-</a>
-</p>
-
-
-&nbsp;
-
-## Languages and Tools
-<p align="center"> <a href="https://github.com/Rynnsza"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,nodejs,laravel,bootstrap"></a></p>
-<p align="center"> <a href="https://github.com/Rynnsza"><img src="https://skillicons.dev/icons?i=elixir,tailwind,php,mysql,react,"></a></p>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rynnsza&theme=aura&combine_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rynnsza&theme=aura&combine_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rynnsza&theme=aura&combine_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rynnsza&limit=5&theme=aura&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rynnsza&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seaavey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Seaavey's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seaavey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seaavey&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
