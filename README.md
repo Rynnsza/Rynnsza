@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42b883&center=true&width=500&lines=Hi+there,+I'm+Ahmad+Ambari+%F0%9F%91%8B;Full+Stack+Website+Developer;Building+Designer;Always+building+something+cool" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42b883&center=true&width=500&lines=Hi+there,+I'm+Ahmad+Ambari+%F0%9F%91%8B;Full+Stack+Website+Developer;Building+[...]
 </div>
 <br/>
 <div align="center">
@@ -33,14 +33,20 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rynnsza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rynnsza's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rynnsza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rynnsza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rynnsza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=42B883&rank_icon=github" alt="Rynnsza's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rynnsza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rynnsza&theme=tokyonight&hide_border=true&background=0D1117&stroke=42B883" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Rynnsza&limit=5&theme=tokyonight&combine_all_yearly_data=true" alt="Contribution Stats" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=FF6B6B&center=true&width=500&lines=⚠️+Please+don't+copy+this+profile+directly;Build+your+own+story,+not+mine+;©+2026+Ahmad+Ambari+%7C+All+Rights+Reserved" alt="Warning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=FF6B6B&center=true&width=500&lines=⚠️+Please+don't+copy+this+profile+directly;Build+your+own+story,+[...]
 </div>
