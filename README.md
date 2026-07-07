@@ -33,16 +33,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rynnsza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=42B883&rank_icon=github" alt="Rynnsza's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rynnsza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rynnsza&theme=tokyonight&hide_border=true&background=0D1117&stroke=42B883" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rynnsza&limit=5&theme=tokyonight&combine_all_yearly_data=true" alt="Contribution Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rynnsza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rynnsza's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rynnsza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rynnsza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
